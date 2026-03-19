@@ -5,7 +5,7 @@ I am a developer with experience in web development, databases, and system opera
 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
-[![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,androidstudio,linux,ubuntu,windows,apple,git,github,githubactions,docker,html,css,dotnet,kotlin,java,js,ts,py,php,nodejs,react,bootstrap,tailwind,jquery,express,vue,vite,django,laravel,mysql,postgresql,mongo,sqlite,powershell,npm,postman,bash,vim,md,notion)](#)
+[![My Skills](https://skillicons.dev/icons?i=aws,vscode,eclipse,androidstudio,linux,ubuntu,windows,apple,bitbucket,git,github,githubactions,docker,html,css,dotnet,kotlin,java,js,ts,py,php,nodejs,react,bootstrap,tailwind,jquery,express,vue,vite,django,laravel,mysql,postgresql,mongo,sqlite,powershell,npm,postman,bash,vim,md,notion,obsidian)](#)
 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
