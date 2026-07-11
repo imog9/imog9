@@ -1,16 +1,33 @@
 # Hi, I'm imurar 👋
 
-Welcome to my GitHub profile!  
-I am a developer with experience in web development, databases, and system operations.
+**Full Stack Engineer** — Web / Android / Cloud
 
+バックエンドからAndroidアプリ・インフラまで幅広く担当しています。  
+0からの新規開発〜保守・改修まで経験しています。
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
-[![My Skills](https://skillicons.dev/icons?i=aws,vscode,eclipse,androidstudio,linux,ubuntu,windows,apple,bitbucket,git,github,githubactions,docker,html,css,dotnet,kotlin,js,ts,php,nodejs,bootstrap,tailwind,jquery,express,laravel,mysql,mongo,sqlite,powershell,npm,postman,bash,vim,md,notion,obsidian)](#)
+🌐 **Portfolio** → [imurar.github.io/imurar-portfolio](https://imurar.github.io/imurar-portfolio/)
 
+---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
- [![imurar's github stats](https://bad-apple-github-readme.vercel.app/api?username=imurar&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
- 
- [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=imurar&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+## 🛠 Languages & Frameworks
 
-[![John Mwendwa's current streak](https://streak-stats.demolab.com/?user=imurar&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+[![Languages](https://skillicons.dev/icons?i=kotlin,js,ts,php,nodejs,html,css,dotnet,bash,powershell)](https://skillicons.dev)
+
+[![Frameworks](https://skillicons.dev/icons?i=express,laravel,bootstrap,tailwind,jquery,vue)](https://skillicons.dev)
+
+## ⚙️ Infra / Tools / Environments
+
+[![Infra](https://skillicons.dev/icons?i=aws,docker,git,github,githubactions,bitbucket,linux,ubuntu)](https://skillicons.dev)
+
+[![Tools](https://skillicons.dev/icons?i=androidstudio,vscode,eclipse,mysql,mongo,sqlite,postman,npm,vim,notion,obsidian,windows,apple)](https://skillicons.dev)
+
+---
+
+## 📊 GitHub Stats
+
+<p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=imurar&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imurar&layout=compact&theme=dark&hide_border=true&count_private=true" />
+</p>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=imurar&theme=dark&hide_border=true)](https://git.io/streak-stats)
