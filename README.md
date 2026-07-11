@@ -11,7 +11,7 @@
 
 ## 🛠 Languages & Frameworks
 
-[![Languages](https://skillicons.dev/icons?i=kotlin,js,ts,php,nodejs,html,css,dotnet,bash,powershell)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=kotlin,android,js,ts,php,nodejs,html,css,dotnet,bash,powershell)](https://skillicons.dev)
 
 [![Frameworks](https://skillicons.dev/icons?i=express,laravel,bootstrap,tailwind,jquery,vue)](https://skillicons.dev)
 
@@ -26,8 +26,8 @@
 ## 📊 GitHub Stats
 
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=imurar&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imurar&layout=compact&theme=dark&hide_border=true&count_private=true" />
+  <img height="160" src="https://bad-apple-github-readme.vercel.app/api?username=imurar&show_icons=true&count_private=true&theme=dark&hide_border=true&title_color=00b3ff&icon_color=00b3ff" />
+  <img height="160" src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=imurar&layout=compact&count_private=true&theme=dark&hide_border=true&title_color=00b3ff" />
 </p>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=imurar&theme=dark&hide_border=true)](https://git.io/streak-stats)
