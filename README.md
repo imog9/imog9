@@ -5,7 +5,7 @@
 バックエンドからAndroidアプリ・インフラまで幅広く担当しています。  
 0からの新規開発〜保守・改修まで経験しています。
 
-🌐 **Portfolio** → [imurar.github.io/imurar-portfolio](https://imurar.github.io/imurar-portfolio/)
+🌐 **Portfolio** → [imurar.github.io](https://imurar.github.io/)
 
 ---
 
