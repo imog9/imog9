@@ -11,7 +11,7 @@
 
 ## 🛠 Languages & Frameworks
 
-[![Languages](https://skillicons.dev/icons?i=kotlin,android,js,ts,php,nodejs,html,css,dotnet,bash,powershell)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=kotlin,js,ts,php,nodejs,html,css,dotnet,bash,powershell)](https://skillicons.dev)
 
 [![Frameworks](https://skillicons.dev/icons?i=express,laravel,bootstrap,tailwind,jquery,vue)](https://skillicons.dev)
 
@@ -19,7 +19,7 @@
 
 [![Infra](https://skillicons.dev/icons?i=aws,docker,git,github,githubactions,bitbucket,linux,ubuntu)](https://skillicons.dev)
 
-[![Tools](https://skillicons.dev/icons?i=androidstudio,vscode,eclipse,mysql,mongo,sqlite,postman,npm,vim,notion,obsidian,windows,apple)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=androidstudio,vscode,mysql,mongo,sqlite,postman,npm,vim,notion,obsidian,windows,apple)](https://skillicons.dev)
 
 ---
 
