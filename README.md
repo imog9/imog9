@@ -1,11 +1,11 @@
-# Hi, I'm imurar 👋
+# Hi, I'm imog9 👋
 
 **Full Stack Engineer** — Web / Android / Cloud
 
-バックエンドからAndroidアプリ・インフラまで幅広く担当しています。  
-0からの新規開発〜保守・改修まで経験しています。
+バックエンドからAndroidアプリ・インフラまで幅広く担当しています。 
+0からの新規開発〜保守・改修まで対応
 
-🌐 **Portfolio** → [imurar.github.io](https://imurar.github.io/)
+🌐 **Portfolio** → [imurar.github.io](https://imog9.github.io/)
 
 ---
 
