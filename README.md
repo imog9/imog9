@@ -25,6 +25,6 @@
 
 ## 📊 GitHub Stats
 
-![Most Used Languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=imurar&layout=compact&count_private=true&theme=dark&hide_border=true&title_color=00b3ff)
+![Most Used Languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=imogx&layout=compact&count_private=true&theme=dark&hide_border=true&title_color=00b3ff)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=imurar&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=imogx&theme=dark&hide_border=true)](https://git.io/streak-stats)
