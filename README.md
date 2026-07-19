@@ -1,11 +1,11 @@
-# Hi, I'm imog9 👋
+# Hi, I'm imogx 👋
 
 **Full Stack Engineer** — Web / Android / Cloud
 
 バックエンドからAndroidアプリ・インフラまで幅広く担当しています。 
 0からの新規開発〜保守・改修まで対応
 
-🌐 **Portfolio** → [imog9.github.io](https://imog9.github.io/)
+🌐 **Portfolio** → [imogx.github.io](https://imogx.github.io/)
 
 ---
 
