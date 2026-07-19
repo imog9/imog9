@@ -5,7 +5,7 @@
 バックエンドからAndroidアプリ・インフラまで幅広く担当しています。 
 0からの新規開発〜保守・改修まで対応
 
-🌐 **Portfolio** → [imurar.github.io](https://imog9.github.io/)
+🌐 **Portfolio** → [imog9.github.io](https://imog9.github.io/)
 
 ---
 
